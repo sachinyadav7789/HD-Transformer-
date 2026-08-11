@@ -8,7 +8,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/2000-kva-three-phase-power-transformer-p001.svg",
     "description": "2000 KVA Three Phase Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Transformer Type": "Power Transformer",
@@ -30,7 +30,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/electrical-power-transformer-p002.svg",
     "description": "Electrical Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Cooling Type": "Oil Cooled",
@@ -53,7 +53,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/3-phase-1000-kva-dry-type-transformer-with-oltc-p003.svg",
     "description": "3-Phase 1000 Kva Dry Type Transformer With OLTC manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Material": "Stainless Steel",
@@ -74,7 +74,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/industrial-electrical-power-transformer-p004.svg",
     "description": "Industrial Electrical Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "Electrical Power Transformer",
@@ -95,7 +95,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/industrial-power-transformer-p005.svg",
     "description": "Industrial Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "500 kVA",
@@ -118,7 +118,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/5-mva-3-phase-oil-cooled-power-transformer-p006.svg",
     "description": "5 Mva 3 Phase Oil Cooled Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power Rating": "5000 kVA",
@@ -139,7 +139,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/3-phase-copper-power-transformer-p007.svg",
     "description": "3 phase copper power transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "1000 kVA",
@@ -161,7 +161,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-solar-inverter-duty-transformer-p008.svg",
     "description": "Three Phase Solar Inverter Duty Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Winding Material": "Copper",
@@ -183,7 +183,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/step-up-transformer-p009.svg",
     "description": "Step Up Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "5000 kVA",
@@ -204,7 +204,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-distribution-transformer-p010.svg",
     "description": "Three Phase Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "400 kva",
@@ -227,7 +227,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/power-distribution-transformer-p011.svg",
     "description": "Power Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Transformer Type": "Isolation Transformer",
@@ -252,7 +252,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": true,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-power-distribution-transformer-p012.svg",
     "description": "Three Phase Power Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "500 kVA",
@@ -277,7 +277,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-electrical-power-transformer-p013.svg",
     "description": "Three Phase Electrical Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power Rating": "500 kVA",
@@ -300,7 +300,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/2mva-3-phase-oil-cooled-distribution-transformer-p014.svg",
     "description": "2Mva 3-Phase Oil Cooled Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Cooling Type": "ONAN",
@@ -323,7 +323,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/oil-cooled-distribution-transformer-p015.svg",
     "description": "Oil-Cooled Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power Rating": "160kVA",
@@ -345,7 +345,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-distribution-transformers-p016.svg",
     "description": "Three Phase Distribution Transformers manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "1500 kVA",
@@ -370,7 +370,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/1000-kva-three-phase-distribution-transformer-p017.svg",
     "description": "1000 KVA Three Phase Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Voltage rating": "11 KVA",
@@ -395,7 +395,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-oil-cooled-transformer-p018.svg",
     "description": "Three Phase Oil Cooled Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Phase": "Three Phase",
@@ -415,7 +415,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/oil-filled-transformer-p019.svg",
     "description": "Oil Filled Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "Oil Filled Transformer",
@@ -435,7 +435,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/3-phase-250-kva-distribution-transformer-p020.svg",
     "description": "3-Phase 250 Kva Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "250 kVA",
@@ -455,7 +455,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/3-phase-630-kva-distribution-transformers-with-oltc-p021.svg",
     "description": "3 Phase 630 kva Distribution Transformers With OLTC manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "630 kVA",
@@ -476,7 +476,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-furnace-transformer-p022.svg",
     "description": "Three Phase Furnace Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Phase": "Three Phase",
@@ -495,7 +495,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-auxiliary-transformers-p023.svg",
     "description": "Three Phase Auxiliary Transformers manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Phase": "Three Phase",
@@ -514,7 +514,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/500kva-3-phase-distribution-transformer-p024.svg",
     "description": "500kVA 3-Phase Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "500 kVA",
@@ -534,7 +534,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-unitized-substation-p025.svg",
     "description": "Three Phase Unitized Substation manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Phase": "Three Phase",
@@ -553,7 +553,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/copper-wound-transformer-p026.svg",
     "description": "Copper Wound Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Winding Material": "Copper",
@@ -572,7 +572,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-copper-wound-dry-typetransformer-p027.svg",
     "description": "Three Phase Copper Wound Dry TypeTransformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "400 kVA",
@@ -593,7 +593,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/100-kva-dry-type-transformer-p028.svg",
     "description": "100 Kva Dry Type Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "Copper Wound Transformer",
@@ -615,7 +615,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/high-voltage-copper-wound-transformer-p029.svg",
     "description": "High Voltage Copper Wound Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Accuracy Class": "10",
@@ -637,7 +637,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/3-phase-oil-cooled-oltc-transformer-p030.svg",
     "description": "3-Phase Oil Cooled OLTC Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Phase": "3 Phase",
@@ -657,7 +657,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/cast-resin-dry-type-transformers-p031.svg",
     "description": "Cast Resin Dry Type Transformers manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "Cast Resin Dry Type",
@@ -677,7 +677,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/2mva-3-phase-oltc-distribution-transformers-p032.svg",
     "description": "2MVA 3-Phase Oltc Distribution Transformers manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "2 MVA",
@@ -697,7 +697,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-solar-inverter-duty-transformer-p033.svg",
     "description": "Three Phase Solar Inverter Duty Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Rated Power": "2 MVA",
@@ -721,7 +721,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/2-mva-solar-transformer-p034.svg",
     "description": "2 mva solar transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Rated Power": "2 MVA",
@@ -742,7 +742,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/2000kva-oil-cooled-inverter-duty-solar-transformer-p035.svg",
     "description": "2000KVA OIL COOLED INVERTER DUTY SOLAR TRANSFORMER manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Country of Origin": "Made in India",
@@ -764,7 +764,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/oltc-three-phase-distribution-transformer-p036.svg",
     "description": "OLTC Three Phase Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Material": "Copper",
@@ -785,7 +785,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/500-kva-3-phase-oltc-on-load-tape-changer-transformer-p037.svg",
     "description": "500 kVA 3-Phase OLTC ON LOAD TAPE CHANGER Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Material": "Copper",
@@ -806,7 +806,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/1500-kva-3-phase-wind-transformer-p038.svg",
     "description": "1500 Kva 3-Phase Wind Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "1500 kVA",
@@ -826,7 +826,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/3-phase-3000-kva-oil-cooled-wind-transformer-p039.svg",
     "description": "3 Phase 3000 kVA Oil Cooled Wind Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "3000 kVA",
@@ -846,7 +846,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/oil-filled-distribution-transformer-p040.svg",
     "description": "Oil Filled Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "Oil Filled Distribution Transformer",
@@ -866,7 +866,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/oil-filled-distribution-transformer-p041.svg",
     "description": "Oil Filled Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "Oil Filled Distribution Transformer",
@@ -886,7 +886,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/1000-kva-step-down-transformer-p042.svg",
     "description": "1000 Kva Step Down Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "500 kVA",
@@ -908,7 +908,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/500kva-step-down-transformer-p043.svg",
     "description": "500kva Step Down Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "500 kVA",
@@ -929,7 +929,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/800-kva-dry-type-transformer-p044.svg",
     "description": "800 KVA Dry Type Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Transformer Type": "Dry Type Transformer",
@@ -951,7 +951,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/on-load-tap-changer-transformer-p045.svg",
     "description": "On Load Tap Changer Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Phase": "3 Phase",
@@ -975,7 +975,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/500kva-3-phase-oil-cooled-distribution-transformer-p046.svg",
     "description": "500kVA 3-Phase Oil Cooled Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power Rating": "100 kVA",
@@ -997,7 +997,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/200kva-3-phase-oil-cooled-distribution-transformer-p047.svg",
     "description": "200Kva 3-Phase Oil Cooled Distribution Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power Rating": "100 kVA",
@@ -1019,7 +1019,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-electrical-power-transformer-p048.svg",
     "description": "Three Phase Electrical Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power Rating": "500 kVA",
@@ -1042,7 +1042,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/cast-resin-transformer-p049.svg",
     "description": "Cast Resin Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "Cast Resin Transformer",
@@ -1069,7 +1069,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/1000-kva-50-hz-three-phase-furnace-transformers-p050.svg",
     "description": "1000 KVA 50 Hz Three Phase Furnace Transformers manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "1000 kVA",
@@ -1091,7 +1091,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/auxiliary-current-transformers-p051.svg",
     "description": "Auxiliary Current Transformers manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Power": "100 kVA",
@@ -1113,7 +1113,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/high-voltage-power-transformer-p052.svg",
     "description": "High Voltage Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "High Voltage Power Transformer",
@@ -1132,7 +1132,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/high-voltage-power-transformer-p053.svg",
     "description": "High Voltage Power Transformer manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "High Voltage Power Transformer",
@@ -1151,7 +1151,7 @@ export default [
     "currency": "INR",
     "available": true,
     "featured": false,
-    "imageUrl": "",
+    "imageUrl": "./assets/product-images/three-phase-unitized-substation-p054.svg",
     "description": "Three Phase Unitized Substation manufactured by H.D. Transformers, Jaipur. Specifications shown are based on the public product catalogue and should be confirmed with the company before purchase.",
     "specs": {
       "Type": "Unitized Substation",
