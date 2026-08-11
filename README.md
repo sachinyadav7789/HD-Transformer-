@@ -1,0 +1,1 @@
+Deploy this folder as the public website. Product catalogue is in products.js. Firebase config is already set. Change WHATSAPP_NUMBER in app.js if needed.
